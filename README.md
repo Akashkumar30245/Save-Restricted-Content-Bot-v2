@@ -171,9 +171,9 @@ To run the bot, you'll need to configure a few sensitive variables. Here's how t
     ```
   - Alternatively, export as environment variables:
     ```bash
-    export API_ID=your_api_id
-    export API_HASH=your_api_hash
-    export BOT_TOKEN=your_bot_token
+    export API_ID=23626191
+    export API_HASH=a1416a7b389a7d6d4466ae5e014f7518
+    export BOT_TOKEN=8166451122:AAGsNXECncBD1zW5XqbPa33Rg_EZgR24d2o
     ```
 
 - **For Cloud Platforms (Heroku, Railway, etc.):**
